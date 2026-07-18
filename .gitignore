@@ -1,0 +1,22 @@
+/.vscode
+/AGGREGATE FUNCTIONS.sql
+/ALTER TABLE job_applied.sql
+/CASE EXPRESSION.sql
+/CHANGE COLUMN DATA TYPE.sql
+/CREATE TABLE job_applied (.sql
+/Create tables jan_feb_march from main table.sql
+/csv_files
+/CTE.sql
+/CTEs_LEFT JOIN.sql
+/DROP COLUMN.sql
+/FULL JOIN.sql
+/INNER JOIN.sql
+/INSERT INTO job_applied.sql
+/LEFT JOIN.sql
+/postgres.session.sql
+/Practice_quiz_7.sql
+/RENAME COLUMN.sql
+/sql_course.session.sql
+/test.sql
+/UNION_UNION ALL.sql
+/UPDATE job_applied.sql
